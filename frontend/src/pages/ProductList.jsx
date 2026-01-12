@@ -249,6 +249,7 @@ function ProductList() {
             onClick={() => handlePageChange(currentPage - 1)}
             disabled={currentPage === 1}
             className="pagination-btn"
+             style={{background: "#a03cb9"}}
           >
             ← Previous
           </button>

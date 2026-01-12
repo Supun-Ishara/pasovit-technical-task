@@ -61,7 +61,7 @@ const products = [
     quantity: 80,
     size: ["S", "M", "L", "XL"],
     sku: "MHD-001",
-    images: [{ url: "https://images.unsplash.com/photo-1556821840-3a63f95609a7" }]
+    images: [{ url: "https://shop.nottinghamforest.co.uk/cdn/shop/files/NFFCRedSportsCasualHoodie_0003_NFFC-1865-CASUAL--11683--073.jpg?v=1758807676&width=800" }]
   },
   {
     title: "Women's Black Blazer",
@@ -72,7 +72,7 @@ const products = [
     quantity: 45,
     size: ["XS", "S", "M", "L", "XL"],
     sku: "WBZ-001",
-    images: [{ url: "https://images.unsplash.com/photo-1591369822096-ffd140ec948f" }]
+    images: [{ url: "https://objectstorage.ap-mumbai-1.oraclecloud.com/n/softlogicbicloud/b/cdn/o/products/400-600/132211045--1--1600942835.jpeg" }]
   },
   {
     title: "Kids Cartoon T-Shirt",
@@ -94,7 +94,7 @@ const products = [
     quantity: 65,
     size: ["XS", "S", "M", "L"],
     sku: "WJN-001",
-    images: [{ url: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246" }]
+    images: [{ url: "https://m.media-amazon.com/images/I/71UHzx+7SKL._AC_SX679_.jpg" }]
   },
   {
     title: "Men's Polo Shirt",
@@ -127,7 +127,7 @@ const products = [
     quantity: 70,
     size: ["XS", "S", "M", "L", "XL"],
     sku: "WBL-001",
-    images: [{ url: "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec" }]
+    images: [{ url: "https://lavivente.lk/wp-content/uploads/2025/08/30a-3-scaled.jpg.webp" }]
   },
   {
     title: "Men's Chino Pants",
@@ -149,7 +149,7 @@ const products = [
     quantity: 100,
     size: ["S", "M", "L"],
     sku: "KSS-001",
-    images: [{ url: "https://images.unsplash.com/photo-1519241047957-be31d7379a5d" }]
+    images: [{ url: "https://www.pirouette-editions.fr/details/Comfortable-Running-Play-Shorts-For-Toddlers-Boys-Girls/703383" }]
   },
   {
     title: "Women's Maxi Dress",
@@ -204,7 +204,7 @@ const products = [
     quantity: 70,
     size: ["S", "M", "L", "XL", "XXL"],
     sku: "MTP-001",
-    images: [{ url: "https://images.unsplash.com/photo-1506629082955-511b1aa562c8" }]
+    images: [{ url: "https://img.tatacliq.com/images/i16//437Wx649H/MP000000021567839_437Wx649H_202403152024031.jpeg" }]
   },
   {
     title: "Kids Winter Coat",
@@ -215,7 +215,7 @@ const products = [
     quantity: 50,
     size: ["S", "M", "L"],
     sku: "KWC-001",
-    images: [{ url: "https://images.unsplash.com/photo-1490367532201-b9bc1dc483f6" }]
+    images: [{ url: "https://m.media-amazon.com/images/I/61w-XVqN2oL._AC_SL400_.jpg" }]
   },
   {
     title: "Women's Yoga Pants",
@@ -226,7 +226,7 @@ const products = [
     quantity: 80,
     size: ["XS", "S", "M", "L", "XL"],
     sku: "WYP-001",
-    images: [{ url: "https://images.unsplash.com/photo-1506629082955-511b1aa562c8" }]
+    images: [{ url: "https://trendy.lk/wp-content/uploads/IMG_9309-scaled.jpg" }]
   },
   {
     title: "Men's Formal Shirt",
@@ -248,7 +248,7 @@ const products = [
     quantity: 110,
     size: ["S", "M", "L"],
     sku: "KSU-001",
-    images: [{ url: "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2" }]
+    images: [{ url: "https://s.alicdn.com/@sc04/kf/Hfabe53b9b3184c9d9dc1facd1f0c2d63Q/Custom-Design-Summer-Primary-School-Uniform-Shirt-Kindergarten-Student-s-Skirt-and-Pants-Kids-Uniform.jpg" }]
   },
   {
     title: "Women's Evening Gown",
